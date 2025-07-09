@@ -22,14 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=LabibAbdullah1&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/LabibAbdullah1/LabibAbdullah1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LabibAbdullah1/LabibAbdullah1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LabibAbdullah1/LabibAbdullah1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LabibAbdullah1/LabibAbdullah1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
